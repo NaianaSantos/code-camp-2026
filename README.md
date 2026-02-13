@@ -6,8 +6,8 @@ O Code Camp 2026 começou como um exercício básico de tabelas no Coddy Tech e 
 O Code Camp 2026 apresenta uma agenda de imersão tecnológica com foco em três trilhas principais: Front-End, Lógica de Programação e Banco de Dados (SQL).
 
 O objetivo foi transformar uma estrutura simples de tabelas em uma interface moderna e profissional utilizando boas práticas de desenvolvimento Web.
-
 Projeto incial (projeto_incial.html)
+
 ----------------------------------------------------------------------------
 🛠️ Tecnologias Utilizadas
 HTML5: Estruturação semântica de múltiplas páginas.

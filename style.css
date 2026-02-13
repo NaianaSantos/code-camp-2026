@@ -33,6 +33,13 @@ header p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+#introducao p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    width: 1000px;
+    margin-left: 100px;
+}
+
 #menu{
     background-color: rgb(15, 164, 214);
     align-items: center;
